@@ -256,3 +256,4 @@ host/EasyAbp.NotificationService.IdentityServer/Logs/logs.txt
 host/EasyAbp.NotificationService.HttpApi.Host/Logs/logs.txt
 host/EasyAbp.NotificationService.Web.Host/Logs/logs.txt
 host/EasyAbp.NotificationService.Web.Unified/Logs/logs.txt
+libs/
